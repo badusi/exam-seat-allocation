@@ -9,7 +9,7 @@ An automated web-based solution designed to streamline the seating arrangement p
 * **Seat Plan Generation:** Clear, exportable seating charts and attendance lists for invigilators and students.
 
 ## 🛠️ Tech Stack
-* **Frontend:** HTML, CSS, JavaScript, Bootstrap
+* **Frontend:** HTML, CSS, JavaScript
 * **Backend:** PHP
 * **Database:** MySQL (via XAMPP phpMyAdmin)
 
